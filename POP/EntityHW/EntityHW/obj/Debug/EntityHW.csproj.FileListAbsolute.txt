@@ -1,0 +1,26 @@
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\obj\Debug\EntityHW.csprojResolveAssemblyReference.cache
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\obj\Debug\EntityHW.Form1.resources
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\obj\Debug\EntityHW.Properties.Resources.resources
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\obj\Debug\EntityHW.csproj.GenerateResource.Cache
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityHW.exe.config
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityHW.exe
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityHW.pdb
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityFramework.dll
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityFramework.xml
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\obj\Debug\EntityHW.exe
+c:\users\tunas\documents\visual studio 2017\Projects\EntityHW\EntityHW\obj\Debug\EntityHW.pdb
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityHW.exe.config
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityHW.exe
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityHW.pdb
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityFramework.dll
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityFramework.xml
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\obj\Debug\EntityHW.csprojResolveAssemblyReference.cache
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\obj\Debug\EntityHW.Form1.resources
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\obj\Debug\EntityHW.Properties.Resources.resources
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\obj\Debug\EntityHW.csproj.GenerateResource.Cache
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\obj\Debug\EntityHW.exe
+C:\Users\tunas\Google Drive\Trainie\7.06.60\entityFramework\POP\EntityHW\EntityHW\obj\Debug\EntityHW.pdb
