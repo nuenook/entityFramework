@@ -1,0 +1,12 @@
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\Training Projects.exe.config
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\Training Projects.exe
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\Training Projects.pdb
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\EntityFramework.dll
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\EntityFramework.xml
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\obj\Debug\EntityFramework.csprojResolveAssemblyReference.cache
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\obj\Debug\EntityFramework.Interface.resources
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\obj\Debug\EntityFramework.csproj.GenerateResource.Cache
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\obj\Debug\Training Projects.exe
+C:\Users\Champ\documents\visual studio 2017\Projects\Training Projects\Training Projects\obj\Debug\Training Projects.pdb
